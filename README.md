@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kb-/quint/HEAD?labpath=notebooks%2FChunking%20text%20into%20paragraphs.ipynb)
+
 # Description
 Description: "Quintessentia" aims to make it easier for users to understand and navigate podcasts by providing summaries and timestamps. The project involves taking audio podcasts and converting them to text, then punctuating and chunking the text into meaningful parts. It also involves summarizing each part and timestamping it to allow users to easily navigate the podcast. The project creates a chart of the best topics in the podcast and provides a summary of the entire podcast.
 
